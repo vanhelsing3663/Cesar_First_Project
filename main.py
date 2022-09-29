@@ -122,3 +122,5 @@ lbl8 = Label(tk, text='4)Перед выходом удалите файл', bg=
 lbl8.place(x=300, y=435, width=200, height=20)
 
 tk.mainloop()
+
+#PYTHON
